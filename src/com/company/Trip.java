@@ -5,6 +5,7 @@ public class Trip {
     double duration;
     int deltagere;
     double price;
+    String git;
 
 
 
